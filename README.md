@@ -1,2 +1,2 @@
 # bov
-Simple Vanila BoF Testing Application
+Simple Vanilla BoF Testing Application
