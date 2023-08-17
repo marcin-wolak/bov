@@ -7,7 +7,7 @@
 // During execution it may also be neccessary to Ignore warnings
 // using button Ignore.
 
-// Autor: Marcin Wolak
+// Author: Marcin Wolak
 // https://www.linkedin.com/in/marcinwolak/
 // https://marcin-wolak.medium.com/
 
